@@ -206,6 +206,6 @@ Untuk memulihkan dan menguji basis data **`db_akademikkampus`** di komputer loka
 ---
 
 Disusun dan didokumentasikan oleh **Akram Junaidi** ([@akramjunaidi](https://github.com/akramjunaidi))  
-Program Studi Teknologi Informasi · Fakultas Dakwah dan Ilmu Komunikasi · UIN Mataram · 2026
+Program Studi Teknologi Informasi · Fakultas Sains dan Teknologi · UIN Mataram · 2026
 
 </div>
