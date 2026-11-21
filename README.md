@@ -10,7 +10,7 @@
 ![Tools](https://img.shields.io/badge/Tools-XAMPP%20%7C%20phpMyAdmin%20%7C%20draw.io-FB7A24?style=for-the-badge)
 ![NIM](https://img.shields.io/badge/NIM-2503060033-success?style=for-the-badge)
 
-**Akram Junaidi (`2503060033`)** · Program Studi Teknologi Informasi · Fakultas Dakwah dan Ilmu Komunikasi  
+**Akram Junaidi (`2503060033`)** · Program Studi Teknologi Informasi · Fakultas Sains dan Teknologi  
 **Universitas Islam Negeri (UIN) Mataram** · Dosen Pengampu: **Muti'ah, M.Pd.** · Tahun Akademik 2026
 
 </div>
